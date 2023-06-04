@@ -51,7 +51,7 @@ The Tic Tac Toe Android App is open source and released under the [MIT License](
 
 ## Contact
 
-For any inquiries or suggestions, please contact the project team at tic-tac-toe@example.com.
+For any inquiries or suggestions, please contact the project team at Issues section.
 
 Feel free to visit our [GitHub repository](https://github.com/XNCoders/Tic-Tac-Toe.git) to explore the source code and contribute to the project.
 
