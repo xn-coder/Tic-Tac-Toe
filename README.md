@@ -6,9 +6,7 @@ This is a simple Tic Tac Toe game built for the Android platform. It allows user
 
 Here are a few screenshots of the app in action:
 
-<img src="https://github.com/XNCoders/Tic-Tac-Toe/blob/main/app/src/main/res/drawable/1.jpg" height="500px" width="300px">
-<img src="https://github.com/XNCoders/Tic-Tac-Toe/blob/main/app/src/main/res/drawable/2.jpg" height="500px" width="300px">
-<img src="https://github.com/XNCoders/Tic-Tac-Toe/blob/main/app/src/main/res/drawable/3.jpg" height="500px" width="300px">
+<img src="https://github.com/XNCoders/Tic-Tac-Toe/blob/main/app/src/main/res/drawable/1.jpg" height="470px" width="260px"> <img src="https://github.com/XNCoders/Tic-Tac-Toe/blob/main/app/src/main/res/drawable/2.jpg" height="470px" width="260px"> <img src="https://github.com/XNCoders/Tic-Tac-Toe/blob/main/app/src/main/res/drawable/3.jpg" height="470px" width="260px">
 
 ## Features
 
