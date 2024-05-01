@@ -45,9 +45,6 @@ Contributions to the Tic Tac Toe Android App are welcome. If you find any issues
 3. Make the necessary changes and commit your code.
 4. Submit a pull request with a detailed description of your changes.
 
-## License
-
-The Tic Tac Toe Android App is open source and released under the [MIT License](LICENSE).
 
 ## Contact
 
